@@ -15,7 +15,7 @@ public class FB_Login_Test extends BrowserBaseSetup {
 
 	@BeforeClass
 	public void beforeClass() {
-		// Nothing to do
+		// modified to test github
 	}
 
 	@Test(dataProvider = "testData", priority = 0)
