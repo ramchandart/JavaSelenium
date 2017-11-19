@@ -14,7 +14,7 @@ public class FB_Home_Btn_Test extends BrowserBaseSetup {
 
 	@BeforeMethod
 	public void beforeMethod() {
-		// //
+		
 	}
 
 	@Test
@@ -27,7 +27,7 @@ public class FB_Home_Btn_Test extends BrowserBaseSetup {
 
 	@AfterMethod
 	public void afterMethod() {
-		// driver.quit();
+		
 	}
 
 }
